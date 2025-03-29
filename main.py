@@ -6,9 +6,9 @@ import time
 import random
 
 # รับข้อมูลจากผู้ใช้ (Prompt user for input)
-putBrowser = input("Please enter the number to choose your browser (1 Chrome, 2 Safari, 3 Firefox, 4 Edge): ")
-putUsername = input("Type your Roblox Account username here: ")
-putPassword = input("Type Roblox Account Password here: ")
+putBrowser = 1("Please enter the number to choose your browser (1 Chrome, 2 Safari, 3 Firefox, 4 Edge): ")
+putUsername = input("Type your Roblox Account username here:lone5478 ")
+putPassword = input("Type Roblox Account Password here:20101226Aa ")
 
 # เลือกเบราว์เซอร์ที่ต้องการใช้งาน (Select the browser based on user input)
 match putBrowser:
